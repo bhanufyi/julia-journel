@@ -1,0 +1,1 @@
+This a repo to maintain all the Julia Additional Questions from Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares, I have included the pdf for reference
